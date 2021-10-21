@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1634661624 source:c:\users\alex\eclipse\desktop\”же утро\”же ночь\gerf\itc_hello_str.cpp
+	"str_easy.h"
+
+1634661708 c:\users\alex\eclipse\desktop\”же утро\”же ночь\gerf\str_easy.h
+	<iostream>
+	<string>
+
+1634661708 source:c:\users\alex\eclipse\desktop\”же утро\”же ночь\gerf\itc_len.cpp
+	"str_easy.h"
+
+1634662209 source:c:\users\alex\eclipse\desktop\”же утро\”же ночь\gerf\itc_count_char_in_str.cpp
+	"str_easy.h"
+
+1634662530 source:c:\users\alex\eclipse\desktop\”же утро\”же ночь\gerf\itc_even_place.cpp
+	"str_easy.h"
+
+1634662140 source:c:\users\alex\eclipse\desktop\”же утро\”же ночь\gerf\itc_first_end_three.cpp
+	"str_easy.h"
+
+1634662012 source:c:\users\alex\eclipse\desktop\”же утро\”же ночь\gerf\itc_print_copy_str.cpp
+	"str_easy.h"
+
+1634664891 source:c:\users\alex\eclipse\desktop\”же утро\”же ночь\gerf\main.cpp
+	"str_easy.h"
+
+1634662796 source:c:\users\alex\eclipse\desktop\”же утро\”же ночь\gerf\itc_percent_lower_uppercase.cpp
+	"str_easy.h"
+
+1634663519 source:c:\users\alex\eclipse\desktop\”же утро\”же ночь\gerf\itc_equal_reverse.cpp
+	"str_easy.h"
+
+1634663258 source:c:\users\alex\eclipse\desktop\”же утро\”же ночь\gerf\itc_reverse_str.cpp
+	"str_easy.h"
+
+1634663372 source:c:\users\alex\eclipse\desktop\”же утро\”же ночь\gerf\itc_slice_str.cpp
+	"str_easy.h"
+
+1634664198 source:c:\users\alex\eclipse\desktop\”же утро\”же ночь\gerf\itc_cmp_str.cpp
+	"str_easy.h"
+
+1634664755 source:c:\users\alex\eclipse\desktop\”же утро\”же ночь\gerf\itc_find_str.cpp
+	"str_easy.h"
+
+1634664723 source:c:\users\alex\eclipse\desktop\”же утро\”же ночь\gerf\itc_three_str.cpp
+	"str_easy.h"
+
